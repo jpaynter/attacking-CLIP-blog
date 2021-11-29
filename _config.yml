@@ -1,17 +1,17 @@
 # Setup
-title:               Attacking a Contrastive Model
-tagline:             'A Short Summary of: Poisoning and Backdooring Contrastive Learning'
-description:         'A blog post for 6.867, fall 2021.'
-url:                 ''
+title:               Attacking Contrastive Models
+tagline:             'A blog post for 6.867, fall 21'
+description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:                 https://lanyon.getpoole.com
 baseurl:             ''
 paginate:            5
 permalink:           pretty
 
 # About/contact
 author:
-  name:              Jon Paynter
-  url:               ''
-  email:             jpaynter@mit.edu
+  name:              Mark Otto
+  url:               https://twitter.com/mdo
+  email:             markdotto@gmail.com
 
 # Gems
 plugins:
@@ -21,4 +21,4 @@ plugins:
 version:             1.1.0
 google_analytics_id: UA-146052-15
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
