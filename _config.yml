@@ -1,6 +1,6 @@
 # Setup
 title:               Attacking a Contrastive Model
-tagline:             'A Short Summary of `Poisoning and Backdooring Contrastive Learning''
+tagline:             'A Short Summary of: Poisoning and Backdooring Contrastive Learning'
 description:         'A blog post for 6.867, fall 2021.'
 url:                 ''
 baseurl:             ''
