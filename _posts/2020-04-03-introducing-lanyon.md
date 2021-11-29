@@ -12,6 +12,8 @@ authors: Paynter, Jonathan, MIT ORC
 
 ### What is contrastive learning?
 
+### A brief description of poisoning and backdooring
+
 ### What makes an attack on a contrastive learning model different?
 
 ### Poisoning and Backdooring Contrastive Learning
