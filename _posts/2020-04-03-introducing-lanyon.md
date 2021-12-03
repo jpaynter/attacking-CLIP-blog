@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Attacking a Contrastive Model
+date: 12-3-2021
 tags: [contrastive, attack, CLIP]
 authors: Paynter, Jonathan, MIT ORC
 ---
