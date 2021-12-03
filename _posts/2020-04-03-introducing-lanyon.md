@@ -37,3 +37,9 @@ j=1 \\
 k=2 \\
 \end{align}$$
 
+To bold text, use <strong>.
+To italicize text, use <em>.
+Abbreviations, like HTML should use <abbr>, with an optional title attribute for the full phrase.
+Citations, like — Mark otto, should use <cite>.
+Deleted text should use <del> and inserted text should use <ins>.
+Superscript text uses <sup> and subscript text uses <sub>.
