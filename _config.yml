@@ -1,8 +1,8 @@
 # Setup
-title:               Attacking Contrastive Models
-tagline:             'A blog post for 6.S898.'
-description:         'Blogging on contrastive learning.'
-url:                 https://jpaynter.github.io/iclr-blog-track.github.io/
+title:               Jon Paynter
+tagline:             'Posting for 6.S898.'
+description:         'An initial blog post!'
+url:                 https://jpaynter.github.io/attacking-CLIP-blog/
 baseurl:             ''
 paginate:            5
 permalink:           pretty
@@ -10,7 +10,7 @@ permalink:           pretty
 # About/contact
 author:
   name:              Jon Paynter
-  url:               https://jpaynter.github.io/iclr-blog-track.github.io/
+  url:               https://jpaynter.github.io/attacking-CLIP-blog/
   email:             jpaynter@mit.edu
 
 # Gems
